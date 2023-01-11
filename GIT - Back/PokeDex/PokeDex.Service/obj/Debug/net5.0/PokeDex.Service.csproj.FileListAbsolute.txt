@@ -1,0 +1,12 @@
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\bin\Debug\net5.0\PokeDex.Service.deps.json
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\bin\Debug\net5.0\PokeDex.Service.dll
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\bin\Debug\net5.0\ref\PokeDex.Service.dll
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\bin\Debug\net5.0\PokeDex.Service.pdb
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\obj\Debug\net5.0\PokeDex.Service.csproj.AssemblyReference.cache
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\obj\Debug\net5.0\PokeDex.Service.GeneratedMSBuildEditorConfig.editorconfig
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\obj\Debug\net5.0\PokeDex.Service.AssemblyInfoInputs.cache
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\obj\Debug\net5.0\PokeDex.Service.AssemblyInfo.cs
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\obj\Debug\net5.0\PokeDex.Service.csproj.CoreCompileInputs.cache
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\obj\Debug\net5.0\PokeDex.Service.dll
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\obj\Debug\net5.0\ref\PokeDex.Service.dll
+U:\Projetos\Pokedex\GIT - Back\PokeDex\PokeDex.Service\obj\Debug\net5.0\PokeDex.Service.pdb
