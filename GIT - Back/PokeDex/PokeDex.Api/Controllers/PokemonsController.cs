@@ -22,8 +22,11 @@ namespace PokeDex.Api.Controllers
         }
 
         [HttpGet("GetPokemons")]
-        public List<Pokemons> GetPokemons(){
-            return _pokemonsService.GetPokemons();
+        public IActionResult GetPokemons(){
+
+            var retorno =  _pokemonsService.GetPokemons();
+
+            return Ok(retorno);
         }
     }
 }

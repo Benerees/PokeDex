@@ -32,6 +32,10 @@ namespace PokeDex.Api
 
             services.AddControllers();
 
+            services.AddCors();
+
+            services.AddMvc();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PokeDex.Api", Version = "v1" });
@@ -47,6 +51,10 @@ namespace PokeDex.Api
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PokeDex.Api v1"));
             }
+
+            app.UseCors(options =>
+                options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+
 
             app.UseHttpsRedirection();
 

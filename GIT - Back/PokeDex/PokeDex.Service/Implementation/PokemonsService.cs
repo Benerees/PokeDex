@@ -34,6 +34,11 @@ namespace PokeDex.Service.Implementation
 
             return retorno;
         }
+        
+        public Pokemons GetPokemonsPorId()
+        {
+            return null;
+        }
     }
 
     
